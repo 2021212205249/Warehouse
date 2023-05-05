@@ -1,0 +1,22 @@
+.m-data {
+  margin: 10px;
+}
+
+.u-del {
+  background: white;
+  position: absolute;
+  left: 15%;
+}
+.u-add {
+  margin: 10px 218px;
+  background: green;
+  color: white;
+  width: 63px;
+}
+.u-no {
+  display: contents;
+}
+input {
+  position: absolute;
+  left: 5%;
+}

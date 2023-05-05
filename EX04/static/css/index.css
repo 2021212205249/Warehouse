@@ -1,0 +1,91 @@
+.Box {
+  position: absolute;
+  left: 37%;
+  list-style-type: none
+  box-sizing: border-box;
+  width: 372px;
+  height: 578px;
+  background: gainsboro;
+  margin: 10px;
+}
+
+.box {
+  box-sizing: border-box;
+  width: 352px;
+  height: 556px;
+  background: #fff;
+  margin: 10px;
+}
+
+.box1 {
+  box-sizing: border-box;
+  width: 352px;
+  height: 80px;
+  text-align: center;
+ }
+.m1 {
+  float: left;
+  padding: 20px;
+}
+.number{
+  color: red;
+  font-size: 25px;
+  font-weight: bold;
+ }
+ 
+.box2{
+  box-sizing: border-box;
+  width: 352px;
+  height: 40px;
+  background: mistyrose;
+  text-align: center;
+ }
+.text2 {
+  color: tomato;
+  font-size: 15px;
+}
+
+.box3 {
+  box-sizing: border-box;
+  width: 352px;
+  height: 214px;
+ }
+.text3 {
+  float: left;
+  padding: 18px;
+}
+.m3{
+  float: left;
+  padding-left: 30px;
+  padding-bottom: 30px;
+  padding-top: 7px;
+}
+.m4 {
+  box-sizing: border-box;
+  width: 88px;
+  height: 80px;
+  border:1px solid gainsboro ;
+  border-bottom: 2px solid orange;
+  float: left;
+}
+.m4 img{
+  width: 35%;
+  padding-top: 10px;
+  padding-left: 25px;
+}
+.text4 {
+  padding-left: 23px;
+}
+
+.box4 {
+  box-sizing: border-box;
+  width: 352px;
+  height: 224px;
+  border-left: 2px solid orange;
+  border-right: 2px solid orange;
+  border-bottom: 2px solid orange;
+}
+.final img {
+  width: 98%;
+  padding-top: 21px;
+}

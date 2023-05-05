@@ -1,0 +1,240 @@
+
+header {
+  box-sizing: border-box;
+  background: #2196f3;
+  width: auto;
+  height: 51px;
+}
+.col-md-8.t1 span {
+  color: white;
+  font-size: 15px;
+  margin-left: 28px;
+}
+.col-md-8.t1 span:nth-child(1) {
+  background: #1967a5;
+  width: 52px;
+  padding-left: 10px;
+}
+.col-md-8.t1 {
+  display: flex;
+  margin-top: 11px;
+}
+.col-md-4.t2 {
+  display: block;
+}
+.col-md-4.t2 span:nth-child(1) {
+  color: white;
+  font-size: 15px;
+}
+.find {
+  background: white;
+  margin-right: 20px;
+}
+.find span:nth-child(2) {
+  float: right;
+  padding-right: 20px;
+  color: #999;
+}
+.col-md-8.r11 {
+  background: #999;
+  width: 670px;
+  height: 240px;
+  margin: 20px 55px;
+}
+.col-md-4.r12 {
+  box-sizing: border-box;
+  background: #eee;
+  margin: 20px 6px;
+  width: 335px;
+  height: 240px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.col-md-4.r12 span:nth-child(1) {
+  padding: 27px 93px;
+}
+.bluebox {
+  background: #2196f3;
+  height: 33px;
+  width: 171px;
+  margin-left: 65px;
+  margin-top: -33px;
+}
+.text {
+  display: block ruby;
+  padding-right: 30px;
+}
+.text span:nth-child(2) {
+  margin-left: -92px;
+}
+.text span:nth-child(1) {
+  margin-left: -31px;
+}
+.line span:nth-child(1) {
+  margin-left: 40px;
+}
+.line span:nth-child(2) {
+  margin-left: 683px;
+}
+.line span:nth-child(3) {
+  margin-left: 250px;
+}
+.col-md-8.r21 {
+  border-right: 1px solid #eee;
+  display: flex;
+  flex-wrap: wrap;
+  height: 186px;
+}
+.row.r2 {
+  box-sizing: border-box;
+  border: 2px solid #eee;
+  margin-left: 25px;
+  width: 670px;
+  margin-top: 10px;
+}
+.col-md-8.r21 span {
+  margin-top: 10px;
+}
+.col-md-8.r21 span:nth-child(2) {
+  padding-left: 20px;
+}
+
+.box1 {
+  box-sizing: border-box;
+  background: #999;
+  width: 160px;
+  height: 100px;
+  margin: 20px 2px;
+}
+.col-md-4.r22 {
+  display: flex;
+  padding-left: 33px;
+  flex-wrap: wrap;
+}
+.col-md-4.r22 span:nth-child(1) {
+  margin-left: 38px;
+}
+.col-md-4.r22 span:nth-child(1) {
+}
+.row.r3 {
+  box-sizing: border-box;
+  border: 1px solid #eee;
+  margin-left: 25px;
+  width: 670px;
+  border-top: none;
+  height: 200px;
+}
+.col-md-4.r3 span:nth-child(1) {
+  color: white;
+}
+.col-md-4.r3 {
+  display: grid; 
+  border-left: 1px solid #eee;
+  height: 200px;
+}
+.row.r4 {
+  box-sizing: border-box;
+  border: 1px solid #eee;
+  margin-left: 25px;
+  width: 670px;
+  border-bottom: 1px solid #eee;
+  border-top: none;
+  height: 250px;
+}
+.box2 {
+  box-sizing: border-box;
+  background: #999;
+  width: 302px;
+  height: 160px;
+  margin: 20px 2px;
+}
+.col-md-6.r4 {
+  border-right: 1px solid #eee;
+  height: 250px;
+  display: grid;
+}
+.row.r5 {
+  box-sizing: border-box;
+  border: 1px solid #eee;
+  margin-left: 25px;
+  width: 670px;
+  border-bottom: 1px solid #eee;
+  border-top: none;
+  height: 150px;
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 20px;
+}
+.col-md-8.r52.container-fluid {
+  display: grid;
+}
+.row.r6 {
+  box-sizing: border-box;
+  border: 1px solid #eee;
+  margin-left: 25px;
+  width: 670px;
+  border-bottom: 1px solid #eee;
+  border-top: none;
+  height: 150px;
+  padding-left: 20px;
+  border-bottom: none;
+  display: grid;
+}
+
+.box3 {
+  box-sizing: border-box;
+  background: #999;
+  width: 318px;
+  height: 113px;
+}
+.row.r7 {
+  box-sizing: border-box;
+  border: 1px solid #eee;
+  margin-bottom: 20px;
+  height: 253px;
+  border-bottom: 3px solid skyblue;
+  display: grid;
+  padding: 29px;
+  overflow: hidden;
+}
+.bluebox.r7 {
+  background-color: #2196f3;
+  color: white;
+  width: 297px;
+  height: 35px;
+  text-align: center;
+  position: relative;
+  float: right;
+  top: 55px;
+  right: -128px;
+  transform: rotate(45deg);
+  font-size: 20px;
+}
+.row.r8 {
+  box-sizing: border-box;
+  border: 1px solid #eee;
+  margin-bottom: 20px;
+  height: 253px;
+  display: grid;
+  margin: 10px;
+  padding: 29px;
+  display: flex;
+}
+
+.box1.r8 {
+  display: flex;
+  align-items: end;
+  padding-left: 51px;
+  margin-top: 60px;
+  margin-left: -224px;
+}
+.text1 span:nth-child(1) {
+  margin-left: 6px;
+}
+.text1 span:nth-child(2) {
+  margin-left: -3px;
+}
+
+.text1 span:nth-child(3) {
+  padding-left: 132px;
+}
